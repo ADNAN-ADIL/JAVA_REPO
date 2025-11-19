@@ -24,7 +24,7 @@ public class break_and_continue_24 {
 //        }while (i<5);
 //        System.out.println("Loop ends here");
 
-
+        // Continue in loops
 //        for (int i=0;i<5;i++){
 //
 //            if (i==2){
